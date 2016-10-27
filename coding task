@@ -1,0 +1,24 @@
+AB Testing Coding Exercise
+
+BACKGROUND
+The iPlayer Editorial team have asked you to help them optimise the Homepage via an AB/multivariate test, namely testing the use of copy and imagery on the tiles. Their broad hypotheses are:
+  1.	A more descriptive tile will drive more click through and ultimately, greater consumption
+  2.	An image that uses close up photography of cast/characters is more attractive
+
+ 
+Example tile
+
+TASK
+Please write some JavaScript that changes two or more of the above elements: image, category, brand title or episode title. This is an exercise in developing the variation(s), not the allocation or analytics. 
+
+Please come prepared to talk us through the task and field any questions we have.
+
+NOTES & CONSIDERATIONS
+•	The iPlayer Homepage is highly dynamic and these tiles are unlikely to remain static over a period of time long enough to run an AB test.
+•	Please ensure your solution works end-to-end and that you include instructions for us to run and test your code.
+•	Your code should be available on GitHub or similar services, with a full commit history.
+•	Although a fully working solution is desirable your response will primarily be evaluated against four key criteria:
+  o	 Design, Modularisation and Componentisation
+  o	Testing Approach and Scenarios
+  o	Performance
+  o	Style and Readability
